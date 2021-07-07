@@ -1,0 +1,23 @@
+{
+"name": "adrianroma/ivoy",
+"description": "Modulo Ivoy",
+"type": "magento2-module",
+"version": "1.0",
+"abandoned": "adrianroma/ivoy_pre",
+"license": [
+  "Apache-2.0"
+],
+"require": {
+  "php": "~7.3.0||~7.4.0",
+  "magento/framework": "*"
+},
+"suggest": {
+  "magento/module-shipping": "*"
+},
+"autoload": {
+  "files": ["registration.php"],
+  "psr-4": {
+    "AdrianRoma\\Ivoy\\": ""
+  }
+}
+}
