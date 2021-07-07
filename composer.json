@@ -1,9 +1,8 @@
 {
 "name": "adrianroma/ivoy",
-"description": "Modulo Ivoy",
+"description": "AdrianRoma Ivoy",
 "type": "magento2-module",
 "version": "1.0",
-"abandoned": "adrianroma/ivoy_pre",
 "license": [
   "Apache-2.0"
 ],
