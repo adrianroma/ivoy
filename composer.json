@@ -6,10 +6,6 @@
 "license": [
   "Apache-2.0"
 ],
-"require": {
-  "php": "~7.3.0||~7.4.0",
-  "magento/framework": "*"
-},
 "suggest": {
   "magento/module-shipping": "*"
 },
