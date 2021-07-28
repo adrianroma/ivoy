@@ -1,6 +1,6 @@
 {
 "name": "adrianroma/ivoy",
-"description": "AdrianRoma Ivoy",
+"description": "Adrianroma Ivoy",
 "type": "magento2-module",
 "version": "1.0",
 "license": [
@@ -12,7 +12,7 @@
 "autoload": {
   "files": ["registration.php"],
   "psr-4": {
-    "AdrianRoma\\Ivoy\\": ""
+    "Adrianroma\\Ivoy\\": ""
   }
 }
 }
