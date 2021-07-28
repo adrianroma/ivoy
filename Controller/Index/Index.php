@@ -1,6 +1,6 @@
 <?php
 
-namespace AdrianRoma\Ivoy\Controller\Index;
+namespace Adrianroma\Ivoy\Controller\Index;
 
 use Magento\Framework\App\Action\Context;
 use Magento\Framework\View\Result\PageFactory;
