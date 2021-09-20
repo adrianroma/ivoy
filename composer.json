@@ -6,6 +6,10 @@
 "license": [
   "Apache-2.0"
 ],
+"require": {
+    "php": ">=7.0",
+    "adrianroma/ivoy": "1.4"
+},
 "suggest": {
   "magento/module-shipping": "*"
 },
@@ -14,5 +18,11 @@
   "psr-4": {
     "Adrianroma\\Ivoy\\": ""
   }
-}
+},
+  "repositories": [
+        {
+            "type": "vcs",
+            "url":  "git@github.com:adrianroma/ivoy.git"
+        }
+  ]
 }
