@@ -1,7 +1,0 @@
-{
-    "packages": {
-        "adrianroma/ivoy": {
-            "master": { @composer.json }
-        }
-    }
-}
