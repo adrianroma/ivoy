@@ -7,8 +7,7 @@
   "Apache-2.0"
 ],
 "require": {
-    "php": ">=7.0",
-    "adrianroma/ivoy": "1.4"
+    "php": ">=7.0"
 },
 "suggest": {
   "magento/module-shipping": "*"
