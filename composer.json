@@ -1,6 +1,9 @@
 {
 "name": "adrianroma/ivoy",
+"authors":[{"name":"Adrian Romero","email":"ak360s@gmail.com","role":"developer"}],  
 "description": "Adrianroma Ivoy",
+"keyword": ["magento 2","ivoy","envio","paqueteria","mexico"], 
+"minimus-stability":"dev",  
 "type": "magento2-module",
 "version": "1.0",
 "license": [
